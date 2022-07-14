@@ -1,0 +1,22 @@
+.horizontal {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #aaa;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+
+.horizontal span{
+  background: #fff;
+  padding: 0 10px;
+}
+
+.my-3 {
+  width: 100%;
+}
+
+.HeaderLogo {
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+}
